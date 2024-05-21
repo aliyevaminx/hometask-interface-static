@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\bin\Debug\net8.0\hometask-interface-task-11.exe
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\bin\Debug\net8.0\hometask-interface-task-11.deps.json
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\bin\Debug\net8.0\hometask-interface-task-11.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\bin\Debug\net8.0\hometask-interface-task-11.dll
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\bin\Debug\net8.0\hometask-interface-task-11.pdb
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\hometask-interface-task-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\hometask-interface-task-11.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\hometask-interface-task-11.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\hometask-interface-task-11.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\hometask-interface-task-11.dll
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\refint\hometask-interface-task-11.dll
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\hometask-interface-task-11.pdb
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\hometask-interface-task-11.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\hometask-interface-task-11\obj\Debug\net8.0\ref\hometask-interface-task-11.dll

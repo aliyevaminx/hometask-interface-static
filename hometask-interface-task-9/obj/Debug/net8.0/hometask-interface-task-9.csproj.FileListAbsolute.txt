@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\hometask-interface-task-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\hometask-interface-task-9.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\hometask-interface-task-9.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\hometask-interface-task-9.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\bin\Debug\net8.0\hometask-interface-task-9.exe
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\bin\Debug\net8.0\hometask-interface-task-9.deps.json
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\bin\Debug\net8.0\hometask-interface-task-9.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\bin\Debug\net8.0\hometask-interface-task-9.dll
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\bin\Debug\net8.0\hometask-interface-task-9.pdb
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\hometask-interface-task-9.dll
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\refint\hometask-interface-task-9.dll
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\hometask-interface-task-9.pdb
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\hometask-interface-task-9.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\hometask-interface-task-9\obj\Debug\net8.0\ref\hometask-interface-task-9.dll
